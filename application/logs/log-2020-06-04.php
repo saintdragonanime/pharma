@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-04 03:59:22 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 03:59:23 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 03:59:23 --> 404 Page Not Found: App-assets/img
+ERROR - 2020-06-04 04:03:27 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:03:27 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:03:47 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:03:47 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:06:20 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:06:20 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:08:03 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:08:03 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:10:00 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:10:00 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:11:04 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:11:04 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:11:19 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:11:19 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:11:21 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:11:21 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:11:22 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:11:22 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:11:31 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:11:31 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:12:21 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:12:21 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:12:33 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:12:33 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:13:06 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:13:06 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:14:08 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:14:08 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:14:51 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:14:51 --> 404 Page Not Found: App-assets/css
+ERROR - 2020-06-04 04:15:19 --> 404 Page Not Found: App-assets/vendors
+ERROR - 2020-06-04 04:15:19 --> 404 Page Not Found: App-assets/css
